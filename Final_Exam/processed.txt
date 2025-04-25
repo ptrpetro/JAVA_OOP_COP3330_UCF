@@ -1,0 +1,8 @@
+Jane,1000,IT
+
+Kevin,2000,administration
+
+John,4000,sales
+
+Jim,5000,sales
+
